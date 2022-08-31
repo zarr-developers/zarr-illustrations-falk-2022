@@ -13,7 +13,7 @@ Please include an attribution similar to: *["Adam uploads"](https://github.com/z
 - [Adam uploads](#adam-uploads)
 - [Bea computes](#bea-computes)
 - [Clara shares](#clara-shares)
-- [FAIR re-use](#fair-reuse)
+- [FAIR re-use](#fair-re-use)
 - [Kit's deluge](#kits-deluge)
 - [Monolithic vs.chunked](#monolithic-vs-chunked)
 - [Multiple clients](#multiple-clients)
