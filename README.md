@@ -12,7 +12,7 @@ license.
 
 Images by name:
 
-- [Adam uploads](./adam-uploads)
+- [Adam uploads](./adam-uploads.pdf)
 - [Bea computes](./bea-computes.pdf)
 - [Clara shares](./clara-shares.pdf)
 - [FAIR re-use](./fair-reuse.pdf)
