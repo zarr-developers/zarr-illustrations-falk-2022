@@ -1,20 +1,12 @@
 # Zarr illustrations by Henning Falk (August 2022)
 
-These illustrations were contracted by Zarr, a [NumFOCUS](https://numfocus.org)
-sponsored project, from [Henning Falk](https://twitter.com/DrHenningFalk)
-and are free to re-use under a CC-BY license.
+These illustrations were contracted by Zarr, a [NumFOCUS](https://numfocus.org) sponsored project, from [Henning Falk](https://twitter.com/DrHenningFalk) and are free to re-use under a CC-BY license.
 
-The suggested citation is:
+## Attribution
 
-> "IMAGENAME" by [Henning Falk](https://twitter.com/DrHenningFalk),
-> @2022 [NumFOCUS](https://numfocus.org/), is used under a
-> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+Please include an attribution similar to: ["Adam uploads"](https://github.com/zarr-developers/zarr-illustrations-falk-2022/blob/main/adam-uploads.pdf) by [Henning Falk](https://twitter.com/DrHenningFalk), @2022 [NumFOCUS](https://numfocus.org/), is used under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Modifications to this photo include cropping.
 
-If any modifications are made, please add a matching description:
-
-> Modifications to this photo include cropping.
-
-Images by name:
+## Images by name
 
 - [Adam uploads](./adam-uploads.pdf)
 - [Bea computes](./bea-computes.pdf)
