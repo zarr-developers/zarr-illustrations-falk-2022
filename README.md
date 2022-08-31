@@ -7,8 +7,12 @@ and are free to re-use under a CC-BY license.
 The suggested citation is:
 
 > "IMAGENAME" by [Henning Falk](https://twitter.com/DrHenningFalk),
-> @2022 [NumFOCUS](https://numfocus.org/), can be used under a
+> @2022 [NumFOCUS](https://numfocus.org/), is used under a
 > [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+If any modifications are made, please add a matching description:
+
+> Modifications to this photo include cropping.
 
 Images by name:
 
