@@ -19,7 +19,7 @@ Falk, H. zarr-developers/zarr-illustrations-falk-2022 | Zenodo [WWW Document], 2
 - [Clara shares](#clara-shares)
 - [FAIR re-use](#fair-re-use)
 - [Kit's deluge](#kits-deluge)
-- [Monolithic vs.chunked](#monolithic-vs-chunked)
+- [Monolithic vs. chunked](#monolithic-vs-chunked)
 - [Multiple clients](#multiple-clients)
 - [Navid zooms](#navid-zooms)
 - [Qui downloads](#qui-downloads)
