@@ -100,7 +100,7 @@ Falk, H. zarr-developers/zarr-illustrations-falk-2022 | Zenodo [WWW Document], 2
 
 ![Qui downloads](/300dpi/qui-downloads-300dpi.png)
 
-*Qui talking about his experiences with working with published data.*
+*Qui talking about his experiences working with published data.*
 
 * [Hi-res PNG](/1200dpi/qui-downloads-1200dpi.png)
 * [Original PDF](/originals/qui-downloads.pdf)
